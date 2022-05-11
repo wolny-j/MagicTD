@@ -1,6 +1,9 @@
 # MagicTD
 <!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+<head>
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
+</head>
+
 
 ## CLICK TO DOWNLOAD: https://github.com/wolny-j/MagicTD/archive/refs/heads/main.zip"
 <!-- Place this tag where you want the button to render. -->
